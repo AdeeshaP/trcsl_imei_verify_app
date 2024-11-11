@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+1. This app is for device IMEI verification to validate the device, whether it is an authorized one or not.
+2. This is a key and major project of the Telecommunication Regulatory Commission of Sri Lanka, which is the central government authority regarding devices that are imported into Sri Lanka.
+3. Firebase connected Gmail and Apple ID based logins (SSO) also have been integrated into this app.
+4. Barcode scanning feature is also included in this app.
+5. Each user profile during registration is bound with an NIC, and every user can upload a maximum 5 IMEIs.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
